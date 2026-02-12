@@ -152,3 +152,15 @@ npm run preview
 本项目用于学习与演示，可自由克隆与二次开发。商业使用请自测并完善真实后端与安全策略。
 
 
+效果图:
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/3bac33dbc7194fb89a9c925393eacfe6.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/e468cf61010d4dfc92d6fb6719172cf0.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/54fd4eee3b4b4788a471a9ab55a0a74c.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/edd8c894d80c4153b59427d0a8c7e1c5.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/b0db0b1fc8ce48c9b55ba1f5462da00b.png)
+
+
+
+
+
+
