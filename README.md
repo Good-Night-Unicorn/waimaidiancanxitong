@@ -1,3 +1,14 @@
+## 美食外卖平台（Vue3 + TypeScript 纯前端）
+**毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
+
+**完整代码收费可以加QQ：3042127848 咨询接毕业设计论文**
+
+**作者QQ：3042127848 备用q：2777345948 (支持修改、部署调试、支持代做毕设)**
+
+**接网站建设、小程序、H5、APP、各种系统等**
+
+**选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt都可以做**
+**详细视频演示**
 # 美食外卖平台（Vue3 + TypeScript 纯前端）
 
 一个基于 Vue3 + TypeScript + Vite + Pinia + Vue Router + Element Plus 的纯前端外卖点餐系统。无后端、无数据库，所有数据均通过本地模拟与 localStorage 持久化，适合学习与演示。
